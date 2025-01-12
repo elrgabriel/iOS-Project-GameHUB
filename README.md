@@ -1,2 +1,3 @@
-# iOS-Project-GameHUB
-Swift classs final project
+# GameHUB
+Swift classs final project\
+Dice game developed using UIKit.
